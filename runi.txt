@@ -1,0 +1,2 @@
+c = "school"
+b =  "we need to focus"
